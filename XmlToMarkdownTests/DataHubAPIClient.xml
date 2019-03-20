@@ -1,0 +1,486 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataHubAPIClient</name>
+    </assembly>
+    <members>
+        <member name="T:DataHubAPIClient.DataHubAPIResponse.Department">
+            <summary>
+            Defines Employee Department Object
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.DepartmentId">
+            <summary>
+            Gets or sets Department Id
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.DepartmentName">
+            <summary>
+            Gets or sets Department Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.DepartmentShortName">
+            <summary>
+            Gets or sets Department ShortName
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.CostCenter">
+            <summary>
+            Gets or sets Cost Center
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.BusinessSegment">
+            <summary>
+            Gets or sets Business Segment
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.BusinessSegmentName">
+            <summary>
+            Gets or sets Business Segment Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.LocationCode">
+            <summary>
+            Gets or sets LocationCode
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.LocationName">
+            <summary>
+            Gets or sets Location Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.LocationShortName">
+            <summary>
+            Gets or sets Location Short Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.AddressLine1">
+            <summary>
+            Gets or sets Address Line 1
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.AddressLine2">
+            <summary>
+            Gets or sets Address Line 2
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.City">
+            <summary>
+            Gets or sets City
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.State">
+            <summary>
+            Gets or sets State
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.Zip">
+            <summary>
+            Gets or sets Zip
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.Country">
+            <summary>
+            Gets or sets Country
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.County">
+            <summary>
+            Gets or sets County
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.FunctionCode">
+            <summary>
+            Gets or sets Function Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.FunctionName">
+            <summary>
+            Gets or sets Function name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.DivisionCode">
+            <summary>
+            Gets or sets Division Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.DivisionName">
+            <summary>
+            Gets or sets Division Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.FercStatus">
+            <summary>
+            Gets or sets Ferc Status
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Department.FercStatusDescription">
+            <summary>
+            Gets or sets Ferc Status Description
+            </summary>
+        </member>
+        <member name="T:DataHubAPIClient.DataHubAPIResponse.Employee">
+            <summary>
+            Describes the Employee Object
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.EmployeeId">
+            <summary>
+            Gets or sets Employee Id
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Name">
+            <summary>
+            Gets or sets Full Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.LastName">
+            <summary>
+            Gets or sets Last Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.FirstName">
+            <summary>
+            Gets or sets First Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.MiddleName">
+            <summary>
+            Gets or sets Middle name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.NameSuffix">
+            <summary>
+            Gets or sets Name Suffix
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.PreferredFirstName">
+            <summary>
+            Gets or sets Preferred First Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.ConsultantCompany">
+            <summary>
+            Gets or sets Consultant Company
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.MailDrop">
+            <summary>
+            Gets or sets Mail Drop
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Status">
+            <summary>
+            Gets or sets Status
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.UnionFlag">
+            <summary>
+            Gets or sets Union Flag
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.ConsultantFlag">
+            <summary>
+            Gets or sets Consultant Flag
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.WorkPhone">
+            <summary>
+            Gets or sets Work Phone
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.WorkExtension">
+            <summary>
+            Gets or sets Work Extension
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.WorkPhone2">
+            <summary>
+            Gets or sets Work Phone 2
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Pager">
+            <summary>
+            Gets or sets Pager
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.CellPhone">
+            <summary>
+            Gets or sets Cell Phone
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Fax">
+            <summary>
+            Gets or sets Fax
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.RoomNbr">
+            <summary>
+            Gets or sets Room Number
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Email">
+            <summary>
+            Gets or sets email
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.OriginalHireDate">
+            <summary>
+            Gets or sets Original Hire Date
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.StatusEffectiveDate">
+            <summary>
+            Gets or sets Status Effective Date
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.CallawayPin">
+            <summary>
+            Gets or sets Callaway Pin
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.FullPartTimeCode">
+            <summary>
+            Gets or sets Full or Part Time Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.RegularTempCode">
+            <summary>
+            Gets or sets Regular or Temp Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.EmployeeTypeName">
+            <summary>
+            Gets or sets EmployeeTypeName
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobLastUpdated">
+            <summary>
+            Gets or sets Job Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.SupervisorId">
+            <summary>
+            Gets or sets Supervisor Id
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.SupervisorName">
+            <summary>
+            Gets or sets Supervisor Full Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.SupervisorLastName">
+            <summary>
+            Gets or sets Supervisor Last Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.SupervisorFirstName">
+            <summary>
+            Gets or sets Supervisor First Name
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobCodeDescription">
+            <summary>
+            Gets or sets Job Description Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobCode">
+            <summary>
+            Gets or sets Job Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobFamily">
+            <summary>
+            Gets or sets Job Family
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.CompanyCode">
+            <summary>
+            Gets or sets Company Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobFamilyDescription">
+            <summary>
+            Gets or sets Job Family Description
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.EmployeeTypeCode">
+            <summary>
+            Gets or sets Employee Type Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.RequisitionApprovalAmount">
+            <summary>
+            Gets or sets Requisition Approval Amount
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.SupervisorFlag">
+            <summary>
+            Gets or sets Supervisor Flag
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.PayGroupName">
+            <summary>
+            Gets or sets Pay Group
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.PayGroupCode">
+            <summary>
+            Gets or sets Pay Group Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.UnionCode">
+            <summary>
+            Gets or sets Union Code
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.UnionDescription">
+            <summary>
+            Gets or sets Union Description
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobEffectiveDate">
+            <summary>
+            Gets or sets Job Effective Date
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobAction">
+            <summary>
+            Gets or sets Job Action
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobActionReason">
+            <summary>
+            Gets or sets Job Action Reason
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.DepartmentLastUpdated">
+            <summary>
+            Gets or sets Department Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.JobCodeLastUpdated">
+            <summary>
+            Gets or sets Job Code Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.LocationLastUpdated">
+            <summary>
+            Gets or sets Location Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.NameLastUpdated">
+            <summary>
+            Gets or sets Name Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.WorkPhoneLastUpdated">
+            <summary>
+            Gets or sets Work Phone Last Updated
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.Employee.Department">
+            <summary>
+            Gets or sets Department Object
+            </summary>
+        </member>
+        <member name="T:DataHubAPIClient.DataHubAPIResponse.DataHubResponse">
+            <summary>
+            Defines the full response from the DataHub
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.DataHubResponse.RecordCount">
+            <summary>
+            Gets or sets Record Count
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.DataHubResponse.TotalRecordCount">
+            <summary>
+            Gets or sets Total Record Count
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.DataHubResponse.HasMore">
+            <summary>
+            Gets or sets Has More
+            </summary>
+        </member>
+        <member name="P:DataHubAPIClient.DataHubAPIResponse.DataHubResponse.Employees">
+            <summary>
+            Gets or sets an Array of Employee Objects.
+            </summary>
+        </member>
+        <member name="T:DataHubAPIClient.DataHubAPIRequests.DataHubRequests">
+            <summary>
+            Sends requests to datahub and returns responses.
+            </summary>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.#ctor(System.String,System.String,System.String,System.String,System.Net.Http.HttpClient)">
+            <summary>
+            DataHubRequest Constructor - Creates DataHubRequest object which surfaces the methods to interact with the DataHub
+            </summary>
+            <param name="baseUrl">The base portion of the url.</param>
+            <param name="reqUri">Request endpoint</param>
+            <param name="userName">User with access to DataHub</param>
+            <param name="userPassword">User's Password</param>
+            <param name="client">HttpClient to use in application. If not provided, defaults to a new HttpClient.</param>
+            <example>
+            This shows how to construct the Object
+            <code>
+            DataHubRequests dhRequest = new DataHubRequests("https://test.data.com:8888/", "data/v1/employee", "UserName", "Pa$$w0rd");
+            </code>
+            </example>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.SetHttpClientDefaults">
+            <summary>
+            Sets the default values for the HttpClient:
+              - BaseAddress set to BaseUrl
+              - Clears Accept Header and sets to application\json
+              - Sets Authorization header to Basic with Creds
+            </summary>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.Base64Credentials(System.String,System.String)">
+            <summary>
+            Creates Base64 Credential string for REST auth.
+            </summary>
+            <param name="uName">The user name.</param>
+            <param name="uPassword">The user password.</param>
+            <returns>Base 64 encoded string.</returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.CreateAPIUrl(System.String,System.Collections.Specialized.StringCollection)" -->
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.GetEmployeesAsync(System.Collections.Specialized.StringCollection)">
+            <summary>
+            Gets an async response from the DataHub.
+            </summary>
+            <param name="queryParams">Collection of query strings to append to the endpoint. Default is null.</param>
+            <returns>Async response with DataHubResponse Object</returns>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.RunQueryAsync(System.Collections.Specialized.StringCollection)">
+            <summary>
+            Sends the request. If more than 500 employees are returned, uses RunBatchesAsync() to get the full result.
+            </summary>
+            <param name="reqParams">Collection of query strings to append to the endpoint. Default is null.</param>
+            <returns>Async response with DataHubResponse Object</returns>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.RunBatchesAsync(System.Collections.Specialized.StringCollection)">
+            <summary>
+            Used for more than 500 results. Runs GetEmployeesIdsOnlyAsync, groups the results by 100, then GetBatchEmployeesAsync queries each group of IDs, combines the results into an array of employees.
+            </summary>
+            <param name="reqParams">Collection of query strings to append to the endpoint. Default is null.</param>
+            <returns>Array of Employee Objects.</returns>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.GetEmployeesIdsOnlyAsync(System.Collections.Specialized.StringCollection)">
+            <summary>
+            Runs a query with the idsOnly param appended.
+            </summary>
+            <param name="reqParams">Collection of query strings to append to the endpoint. Default is null.</param>
+            <returns>Async DataHub Object, containing only Employee Ids. No limit on result length.</returns>
+        </member>
+        <member name="M:DataHubAPIClient.DataHubAPIRequests.DataHubRequests.GetBatchEmployeesAsync(System.Linq.IGrouping{System.Int32,System.String})">
+            <summary>
+            Accepts an IGrouping of employeeIds then sends query for group results.
+            </summary>
+            <param name="employeeIds">Group of Employee Ids.</param>
+            <returns>Array of Employees.</returns>
+        </member>
+    </members>
+</doc>
